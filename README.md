@@ -1,5 +1,5 @@
 # SCM (Source Code Management)
-## Difference between git pull and git fetch
+## Difference between Git Pull and Git Fetch
 
 | Git Fetch | Git Pull |
 | --- | --- |
