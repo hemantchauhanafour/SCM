@@ -10,3 +10,6 @@
 | Command for Git fetch is git fetch \<remote> | Command for Git Pull is git pull \<remote> \<branch> |
 | Git fetch basically imports the commits to local branches so as to keep up-to-date that what everybody is working on. | Git Pull basically brings the local branch up-to-date with the remote copy that will also updates the other remote tracking branches. |
 | | |
+
+
+added blank lines
